@@ -17,8 +17,6 @@ A/D - Move left/right
 
 Space - Jump
 
-R - Circular motion
-
 ESC - Exit
 
 Built as a learning project to explore physics simulation and low-level console graphics in C++.
